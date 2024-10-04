@@ -1,7 +1,7 @@
-# Yoga Asana Classifier
+# Yoga-Vision
 <img src="yoga-vision.png"/>
 <h1>Description</h1>
-Hi welcome to my new deep learning project "Yoga-Vision / pose classifier ". This project as the name suggests can predict the yoga pose which you are doing in front of the webcam.<br>
+Hi welcome to my project "Yoga-Vision / pose classifier ". This project as the name suggests can predict the yoga pose which you are doing in front of the webcam.<br>
 This project comprise of three python scripts namely,<br>
 Data Collection<br>
 Data Training<br>
