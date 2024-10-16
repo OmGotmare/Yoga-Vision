@@ -28,8 +28,7 @@ For this project I used mediapipe pose detection to detect the human body pose a
 
   
 <h1>Connect with me</h1>
-If you have any queries regarding any of the topic I discussed in this video feel free to talk to e using below links:<br>
-instagram : @programming_hut<br>
+If you have any queries regarding any of the topic I discussed in this video feel free to talk to me using below links:<br>
 
 github : https://github.com/OmGotmare<br>
 linkedin : https://www.linkedin.com/in/omgotmare/<br>
